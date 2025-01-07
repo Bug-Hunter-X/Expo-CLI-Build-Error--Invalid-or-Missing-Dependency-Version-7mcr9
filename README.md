@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in Expo CLI projects.  The issue arises from an incorrectly specified dependency version within the `package.json` file. The `bug.js` file shows a sample project with a flawed `package.json`. The solution, shown in `bugSolution.js`, highlights the correct way to define dependency versions to avoid build failures.
